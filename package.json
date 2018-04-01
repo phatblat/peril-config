@@ -1,0 +1,12 @@
+{
+  "name": "peril-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/phatblat/peril-config.git",
+  "author": "Ben Chatelain <ben@octop.ad>",
+  "license": "MIT",
+  "dependencies": {
+    "danger": "^0.18.0",
+    "typescript": "^2.3.2"
+  }
+}
