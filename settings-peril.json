@@ -1,0 +1,10 @@
+{
+  "settings": {
+  },
+  "rules": {
+    "pull_request": "phatblat/peril-config@dangerfiles/pr.js",
+    "issues": "phatblat/peril-config@dangerfiles/issue.js"
+  },
+  "repos": {
+  }
+}
