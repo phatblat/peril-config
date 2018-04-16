@@ -2,8 +2,8 @@
   "settings": {
   },
   "rules": {
-    "pull_request": "phatblat/peril-config@dangerfiles/pr.js",
-    "issues": "phatblat/peril-config@dangerfiles/issue.js"
+    "pull_request": "phatblat/peril-config@dangerfiles/pr.ts",
+    "issues": "phatblat/peril-config@dangerfiles/issue.ts"
   },
   "repos": {
   }
