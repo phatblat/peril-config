@@ -9,7 +9,8 @@
     "danger": "^0.18.0",
     "typescript": "^2.3.2",
     "https-proxy-agent": "^2.2.0",
-    "braces": "2.3.1"
+    "braces": "^2.3.1",
+    "acorn": "^5.7.4"
   }
 }
 
