@@ -6,11 +6,10 @@
   "author": "Ben Chatelain <ben@octop.ad>",
   "license": "MIT",
   "dependencies": {
-    "danger": "^0.18.0",
-    "typescript": "^2.3.2",
-    "https-proxy-agent": "^2.2.0",
+    "acorn": "^5.7.4",
     "braces": "^2.3.1",
-    "acorn": "^5.7.4"
+    "danger": "^0.18.0",
+    "https-proxy-agent": "^2.2.0",
+    "typescript": "^2.3.2"
   }
 }
-
